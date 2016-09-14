@@ -7,4 +7,4 @@
 
 exit(1);  //flush the buffer
 
-delete []x; //Y? get ride of the spaces.
+delete []x; //Y? get ride of the spaces
