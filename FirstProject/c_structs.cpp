@@ -1,13 +1,8 @@
 /*
- * structs.cpp
+ * c_structs.cpp
  *
- *  Created on: Sep 15, 2016
- *      Author: kylew
- */
-
-/*
- *
- *
+ *  Created on: 2016Äê9ÔÂ19ÈÕ
+ *      Author: Kyle
  */
 #include <iostream>
 using namespace std;
@@ -20,7 +15,7 @@ struct StudentInfo{
 	StudentInfo next;
 };
 
-int main(){
+int structs(){
 	StudentInfo Sam;
 	Sam.fname = "Sam";
 	Sam.lname = "Stone";
@@ -31,3 +26,4 @@ int main(){
 	return 0;
 
 }
+
