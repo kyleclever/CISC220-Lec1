@@ -24,6 +24,8 @@ int structs(){
 	studarr[1].fname="Tailor";
 	cout << studarr[1].fname <<endl;
 	return 0;
-
 }
+
+
+
 
